@@ -38,42 +38,42 @@ Here are some ideas to get you started:
 ### ❤ Projects
 <ul>
   <ol>
-    <a href="https://ducvui2003.github.io/bubble-animation/">
+    <a href="https://GiangNguyen0208.github.io/bubble-animation/">
       ✅ bubble-animation
     </a>
    </ol>
    <ol>
-    <a href="https://ducvui2003.github.io/password-validation-check/">
+    <a href="https://GiangNguyen0208.github.io/password-validation-check/">
       ✅ password-validation-check
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/neumorphism/">
+    <a href="https://GiangNguyen0208.github.io/neumorphism/">
       ✅ neumorphism
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/animated-magic-menu-indicator/">
+    <a href="https://GiangNguyen0208.github.io/animated-magic-menu-indicator/">
       ✅ animated-magic-menu-indicator
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/dropdown-menu/">
+    <a href="https://GiangNguyen0208.github.io/dropdown-menu/">
       ✅ dropdown-menu
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/validator-form/">
+    <a href="https://GiangNguyen0208.github.io/validator-form/">
       ✅ validator-form
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/toast-messages/">
+    <a href="https://GiangNguyen0208.github.io/toast-messages/">
       ✅ toast-messages
     </a>
   </ol>
   <ol>
-    <a href="https://ducvui2003.github.io/tabs-ui/">
+    <a href="https://GiangNguyen0208.github.io/tabs-ui/">
       ✅ tabs-ui
     </a>
   </ol>
