@@ -18,7 +18,7 @@
 
 ```js
 const GiangNguyen0208 = {
-    role:      "Fullstack Developer @ MiniAI",
+    role:      "Fullstack Developer @ GREEN HILL LAB",
     code:      ["TypeScript", "JavaScript", "Python", "Java", "PHP"],
     focus:     ["AI Integration", "Cloud Architecture", "System Design", "Microservices"],
     learning:  ["LLM & AI Agents", "Advanced DevOps & K8s"],
